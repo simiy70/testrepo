@@ -1,0 +1,1 @@
+msg = "Roll a dice!"
